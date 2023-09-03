@@ -1,3 +1,5 @@
+#Load Testing Memory
+
 Description: This is a program made to simmulate a high-intensity, highly saturated memory workload. This is achieved through a perpertual allocation loop that can be turned off through manual intervention by the user. 
 
 Functionality: 
