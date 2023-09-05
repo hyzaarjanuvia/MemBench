@@ -29,6 +29,7 @@
 
 **Limitations:** 
   - This program may not work on all systems, especially for those still working with x86 instruction sets.
+  - May only work on Windows systems
   - Currently does not have the ability to stress the threads involved with memory allocation (in development).
   - Currently does not have the ability to detect complex errors or store events in a log file (in development).
   - Good at stressing the memory at full capacity, but may lack the intensity needed to force errors in some unstable systems. May not be as good as a tool as TM5, HCI Memtest, Karhu, GSAT, or other tests widely used today.
