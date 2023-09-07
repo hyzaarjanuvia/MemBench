@@ -39,3 +39,4 @@
   - Systems may be made unresponsive in the case of instability.
   - System data and extraneous programs/applications may be corrupted in the case of instability, run this program at your own risk.
   - Some systems may not be capable of running this test due to performance limitations and may come across widespread slowdowns.
+  - This is very, very early in development and may harm stability in some systems.
