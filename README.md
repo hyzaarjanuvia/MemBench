@@ -1,4 +1,4 @@
-# Memory Load Testing Software
+# Memory Load Testing Software (MemBench)
 
 **Description:** This is a program made to simulate a high-intensity, highly saturated memory workload. This is achieved through a perpetual allocation loop that can be turned off through manual intervention by the user. 
 
